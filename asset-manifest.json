@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/user_dashboard_client/static/css/main.7733ceff.css",
+    "main.js": "/user_dashboard_client/static/js/main.f6ddd121.js",
+    "index.html": "/user_dashboard_client/index.html",
+    "main.7733ceff.css.map": "/user_dashboard_client/static/css/main.7733ceff.css.map",
+    "main.f6ddd121.js.map": "/user_dashboard_client/static/js/main.f6ddd121.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7733ceff.css",
+    "static/js/main.f6ddd121.js"
+  ]
+}
